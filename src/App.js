@@ -1,5 +1,8 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import Multi from './component/Multi/Multi';
+import Sub from './component/Sub/Sub';
+import Add from './component/Add/Add';
 
 function App() {
   return (
@@ -16,6 +19,11 @@ function App() {
       <label>Last Name</label><br></br>
       <input type='text' name='Borkar' placeholder='Enter Last Name'></input>
     </form>
+
+    <Add  a="10" b = "30"/>
+    <Sub c="30" d="10" />
+    <Multi e="10" f="10"/>
+
     </div>
     
   );
