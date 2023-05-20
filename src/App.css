@@ -23,3 +23,13 @@ span{
   font-size: 50px;
   margin-left: 20px;
 }
+label{
+  margin-left: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  
+}
+input{
+  margin-left: 20px;
+  padding: 10px;
+}
