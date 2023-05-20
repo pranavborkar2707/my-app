@@ -17,3 +17,9 @@ button{
   padding: 20px;
   margin-left: 20px;
 }
+span{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  margin-left: 20px;
+}
